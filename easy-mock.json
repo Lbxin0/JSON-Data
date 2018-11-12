@@ -1,0 +1,144 @@
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 3821
+Content-Type: application/json; charset=utf-8
+Date: Mon, 12 Nov 2018 14:22:43 GMT
+Rate-Limit-Remaining: 0
+Rate-Limit-Reset: 1542032563
+Rate-Limit-Total: 2
+Server: Tengine
+Vary: Accept, Origin
+X-Request-Id: ef446017-b554-4fb6-95f4-b74fd90f2fdb
+
+{
+  "data": {
+    "goodsType": [
+      {
+        "image": "http://img.hb.aicdn.com/2c41f11f955fa88d7e453d7a844d6ed7e205fb6e4d59e-rBKN9B",
+        "typeName": "水果"
+      },
+      {
+        "image": "http://img.hb.aicdn.com/fe4099a4d7db6128f22c0395b7ea8f11cf731b035107-6XKxPP",
+        "typeName": "名酒"
+      },
+      {
+        "image": "http://img.hb.aicdn.com/3162d63bd7a8dfd8cf8c911bf8e6d9a4d5b9bea03c3e-1dPvna",
+        "typeName": "奶品"
+      },
+      {
+        "image": "http://img.hb.aicdn.com/adee3c517318ec39edbd9c913e34a0c11a7efc8d20583-b2Y6b3",
+        "typeName": "饮料"
+      },
+      {
+        "image": "http://img.hb.aicdn.com/5c0165d0f0965fb6b317f39178090e0658e6c87336548-BhOKnC",
+        "typeName": "护理"
+      }
+    ],
+    "adBanner": {
+      "bannerAddress": "http://img.hb.aicdn.com/fb56df08819cad71584623a7e4ae82b6fcc0b10459cd-mdrtwC"
+    },
+    "bannerPic": [
+      {
+        "imgUrl": "http://img.hb.aicdn.com/c91f060d462ed957a1d155929f1871c09b27cdbe3375f-DdBpZQ"
+      },
+      {
+        "imgUrl": "http://img.hb.aicdn.com/1b834d44bf97477d517db86a2364d7f08b5211cab37a4-nN1ijX"
+      },
+      {
+        "imgUrl": "http://img.hb.aicdn.com/0ff9033c044dd924838dd00481639bf79174fcf988c81-1v1eD1"
+      }
+    ],
+    "recommendGoods": [
+      {
+        "image": "http://img.hb.aicdn.com/b84169a92997e378a2b3dd1d351aee88520c9e9354846-PxFHJU",
+        "goods_id": "238bc2e023844769a6b67d9a4c04b2ea",
+        "price": 159,
+        "goodsName": "百富帝（byford）四件套纯棉家纺"
+      },
+      {
+        "image": "https://img30.360buyimg.com/jgsq-productsoa/jfs/t1/641/34/12158/164294/5bd170a8Ed77831c2/8a4e4ac703583c3f.jpg",
+        "price": 95.22,
+        "goodsName": "WIS男士洗面奶套装2瓶装"
+      },
+      {
+        "image": "https://img14.360buyimg.com/cms/jfs/t1/9583/39/3741/73412/5bd829ceEbf3893d0/51bbe614cc6a729e.jpg",
+        "goods_id": "24afea564e5248b5a2bc59da95f09911",
+        "price": 35.8,
+        "goodsName": "潘婷活性炭洗发水无硅油套装净"
+      },
+      {
+        "image": "http://img14.360buyimg.com/popWareDetail/jfs/t1/5351/24/10150/176632/5bc9f467E0f2cc840/47d5a86fed1b02dd.jpg",
+        "goods_id": "418fc60784d04e71beffe1ce5174c947",
+        "price": 1254,
+        "goodsName": "亿健（YIJIAN）超静音动感单车"
+      },
+      {
+        "image": "https://img30.360buyimg.com/popWaterMark/jfs/t12727/18/825093896/425097/b17ae860/5a150920N26729dc6.jpg",
+        "goods_id": "4ae4e2e2c1df45308be5011a97aae537",
+        "price": 4,
+        "goodsName": "梦缘天承婚纱礼服一字肩V领"
+      }
+    ],
+    "productName": {
+      "productType_a": "各种吃的",
+      "productType_b": "各种水果",
+      "productType_c": "早餐吃的"
+    },
+    "productType_a": [
+      {
+        "goods_id": "e53c046465204d4fb8f22431cc2807e7",
+        "image": "http://img.hb.aicdn.com/03b41aff1508e504d5548b7a9c8f067c385d087e41f17-rbEMru"
+      },
+      {
+        "goods_id": "f36f6dd8f62247d5846eaa9b3f269cbc",
+        "image": "http://img.hb.aicdn.com/b97918033989c4eaa200c6c1dc210f0f773a19e41f6bc-IEfHij"
+      },
+      {
+        "goods_id": "72a3ec63956347a2a9f113589fe79c03",
+        "image": "http://img.hb.aicdn.com/92c0d7cce8a30fe332c3be385bb26f213d4363db2b0f1-5iE86a"
+      }
+    ],
+    "productType_b": [
+      {
+        "goods_id": "d0fabe0c966043cb8313fa55de9c555b",
+        "image": "http://img.hb.aicdn.com/f91230ce0aa807e2170c42bbf08741c575713f9d5cd6a-QAtwFU"
+      },
+      {
+        "goods_id": "36360da2ec084316a100c2df1c714e37",
+        "image": "http://img.hb.aicdn.com/f89a2740b24b6d25b9fed11db858985d7170483150f13-H7pIYE"
+      },
+      {
+        "goods_id": "eb47b495b65d42b8a1fc5823dcd5589c",
+        "image": "http://img.hb.aicdn.com/ae5d2763f33fbfcdd38b8dbb092c0fb4a8e659ac207c3-CFsKwW"
+      }
+    ],
+    "productType_c": [
+      {
+        "goods_id": "ae4e71807a91460792670b657fa3ed3a",
+        "image": "http://img.hb.aicdn.com/9ee28d51dd8e1d49dd049c73ee6c5686e3d80c69148dd-pE2ikj"
+      },
+      {
+        "goods_id": "2a398a5048074fc3b36bc8026bf9dc65",
+        "image": "http://img.hb.aicdn.com/52197f8b0f2f206029c98cb4961182ea88acda606379d-2NJMXb"
+      },
+      {
+        "goods_id": "b37577ce45ee4cc6ba162959933dbac8",
+        "image": "http://img.hb.aicdn.com/58a5cfc246746134f88415cc8b9874ae8073d42bcd95-aFJnsq"
+      }
+    ],
+    "hotGoods": [
+      {
+        "image": "http://img.hb.aicdn.com/d40b7240c3c6da9635398a7e1a6a10c3b2a17b7a89a5d-Q0vTmg",
+        "goods_id": "fb0f913950944b66a97ae262ad14609a",
+        "price": 3.9,
+        "name": "惠加加 麦秸秆可爱卡通/瓶"
+      },
+      {
+        "image": "http://img.hb.aicdn.com/216f3c5dc8b1fc74be1ddbaa607cec9f0b65576217c36-yc0Tjx",
+        "goods_id": "775e575ce28a4f89b1dfe2c99eb08ae7",
+        "price": 4.5,
+        "name": "唯丽雅 儿童卡通头擦手巾/盒"
+      }
+    ]
+  }
+}
