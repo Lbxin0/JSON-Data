@@ -1,4 +1,4 @@
-HTTP/1.1 200 OK
+/*HTTP/1.1 200 OK
 Connection: keep-alive
 Content-Length: 3821
 Content-Type: application/json; charset=utf-8
@@ -9,48 +9,48 @@ Rate-Limit-Total: 2
 Server: Tengine
 Vary: Accept, Origin
 X-Request-Id: ef446017-b554-4fb6-95f4-b74fd90f2fdb
-
+*/
 {
   "data": {
     "goodsType": [
       {
-        "image": "http://img.hb.aicdn.com/2c41f11f955fa88d7e453d7a844d6ed7e205fb6e4d59e-rBKN9B",
+        "image": "http://img.hb.aicdn.com/2c41f11f955fa88d7e453d7a844d6ed7e205fb6e4d59e-rBKN9B.jpg",
         "typeName": "水果"
       },
       {
-        "image": "http://img.hb.aicdn.com/fe4099a4d7db6128f22c0395b7ea8f11cf731b035107-6XKxPP",
+        "image": "http://img.hb.aicdn.com/fe4099a4d7db6128f22c0395b7ea8f11cf731b035107-6XKxPP.jpg",
         "typeName": "名酒"
       },
       {
-        "image": "http://img.hb.aicdn.com/3162d63bd7a8dfd8cf8c911bf8e6d9a4d5b9bea03c3e-1dPvna",
+        "image": "http://img.hb.aicdn.com/3162d63bd7a8dfd8cf8c911bf8e6d9a4d5b9bea03c3e-1dPvna.jpg",
         "typeName": "奶品"
       },
       {
-        "image": "http://img.hb.aicdn.com/adee3c517318ec39edbd9c913e34a0c11a7efc8d20583-b2Y6b3",
+        "image": "http://img.hb.aicdn.com/adee3c517318ec39edbd9c913e34a0c11a7efc8d20583-b2Y6b3.jpg",
         "typeName": "饮料"
       },
       {
-        "image": "http://img.hb.aicdn.com/5c0165d0f0965fb6b317f39178090e0658e6c87336548-BhOKnC",
+        "image": "http://img.hb.aicdn.com/5c0165d0f0965fb6b317f39178090e0658e6c87336548-BhOKnC.jpg",
         "typeName": "护理"
       }
     ],
     "adBanner": {
-      "bannerAddress": "http://img.hb.aicdn.com/fb56df08819cad71584623a7e4ae82b6fcc0b10459cd-mdrtwC"
+      "bannerAddress": "http://img.hb.aicdn.com/fb56df08819cad71584623a7e4ae82b6fcc0b10459cd-mdrtw.jpgC"
     },
     "bannerPic": [
       {
-        "imgUrl": "http://img.hb.aicdn.com/c91f060d462ed957a1d155929f1871c09b27cdbe3375f-DdBpZQ"
+        "imgUrl": "http://img.hb.aicdn.com/c91f060d462ed957a1d155929f1871c09b27cdbe3375f-DdBpZQ.jpg"
       },
       {
-        "imgUrl": "http://img.hb.aicdn.com/1b834d44bf97477d517db86a2364d7f08b5211cab37a4-nN1ijX"
+        "imgUrl": "http://img.hb.aicdn.com/1b834d44bf97477d517db86a2364d7f08b5211cab37a4-nN1ijX.jpg"
       },
       {
-        "imgUrl": "http://img.hb.aicdn.com/0ff9033c044dd924838dd00481639bf79174fcf988c81-1v1eD1"
+        "imgUrl": "http://img.hb.aicdn.com/0ff9033c044dd924838dd00481639bf79174fcf988c81-1v1eD1.jpg"
       }
     ],
     "recommendGoods": [
       {
-        "image": "http://img.hb.aicdn.com/b84169a92997e378a2b3dd1d351aee88520c9e9354846-PxFHJU",
+        "image": "http://img.hb.aicdn.com/b84169a92997e378a2b3dd1d351aee88520c9e9354846-PxFHJU.png",
         "goods_id": "238bc2e023844769a6b67d9a4c04b2ea",
         "price": 159,
         "goodsName": "百富帝（byford）四件套纯棉家纺"
