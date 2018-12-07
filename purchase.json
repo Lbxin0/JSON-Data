@@ -1,225 +1,226 @@
 {
--"data": [
--{
-"price": 710,
-"id": "4103076104",
-"catId1": null,
-"saleCount": 4,
-"marketPrice": 800,
--"imageUrls": [
-"http://t00img.yangkeduo.com/goods/images/2018-11-26/ba5dc1905895d37a9d533a37ee5dac66.jpeg"
-],
-"title": "18冬季【水貂绒打底中长毛衣】女款百搭针织裙保暖瘦身打底中长衫",
-"catName1": null
-},
--{
-"price": 748,
-"id": "3003242294",
-"catId1": null,
-"saleCount": 2,
-"marketPrice": 848,
--"imageUrls": [
-"http://t00img.yangkeduo.com/goods/images/2018-09-19/c619d5b97466b890dc6bcb22e42744ba.jpeg"
-],
-"title": "针织衫女开衫气质春秋款披肩宽松长衫韩版2018中长款披肩外套",
-"catName1": null
-},
--{
-"price": 555.6,
-"id": "4691135672",
-"catId1": null,
-"saleCount": 0,
-"marketPrice": 755.6,
--"imageUrls": [
-"http://t00img.yangkeduo.com/goods/images/2018-12-04/baa4fe9cb523cb6799d2ab8c6e2a4953.jpeg"
-],
-"title": "秋季棉质鸡心领长衫男版长袖t恤丅血男士韩版秋衣上衣外穿男装土V",
-"catName1": null
-},
--{
-"price": 237.5,
-"id": "4330953336",
-"catId1": null,
-"saleCount": 14,
-"marketPrice": 337.5,
--"imageUrls": [
-"http://t00img.yangkeduo.com/goods/images/2018-11-20/cefc8c11f63b868b6e0b0628fdf413bc.jpeg"
-],
-"title": "中式结婚礼服伴郎伴娘服男士长衫长袍大褂民国古装相声兄弟团礼服",
-"catName1": null
-},
--{
-"price": 430,
-"id": "177988864",
-"catId1": null,
-"saleCount": 28,
-"marketPrice": 480,
--"imageUrls": [
-"http://omsproductionimg.yangkeduo.com/images/2017-11-06/8c636223e77b137241b97d3ce160772f.jpeg"
-],
-"title": "新款印花相声服装表演出服长袍大褂五四民族民国时尚长衫古装汉服",
-"catName1": null
-},
--{
-"price": 430,
-"id": "134742144",
-"catId1": null,
-"saleCount": 200,
-"marketPrice": 480,
--"imageUrls": [
-"http://omsproductionimg.yangkeduo.com/images/2017-10-21/194ed2459cef2099ffc9c6af122f560b.jpeg"
-],
-"title": "新款印花相声服装 民国时尚长衫表演出服五四青年学生装 民族大褂",
-"catName1": null
-},
--{
-"price": 190,
-"id": "43174956",
-"catId1": null,
-"saleCount": 0,
-"marketPrice": 250,
--"imageUrls": [
-"http://omsproductionimg.yangkeduo.com/images/2017-11-07/3960c2de0bb2b2be3c2a8c8715aed826.jpeg"
-],
-"title": "秋冬韩版女装 V领兔毛线针织背心马甲中长款长衫无袖毛衣",
-"catName1": null
-},
--{
-"price": 283,
-"id": "4727363676",
-"catId1": null,
-"saleCount": 0,
-"marketPrice": 303,
--"imageUrls": [
-"http://t00img.yangkeduo.com/goods/images/2018-12-05/93010ffcb04ca58a25b18292a972e291.jpeg"
-],
-"title": "儿童相声演出服装马褂相声大褂五四民国长衫相声服中式长袍表演服",
-"catName1": null
-},
--{
-"price": 283,
-"id": "4727454236",
-"catId1": null,
-"saleCount": 0,
-"marketPrice": 303,
--"imageUrls": [
-"http://t00img.yangkeduo.com/goods/images/2018-12-05/2a28b20a32660711bd724975eab8d36c.jpeg"
-],
-"title": "儿童相声演出服 男女马褂相声大褂民国长衫相声服中式长袍表演服",
-"catName1": null
-},
--{
-"price": 800,
-"id": "2655998810",
-"catId1": null,
-"saleCount": 26,
-"marketPrice": 850,
--"imageUrls": [
-"http://t00img.yangkeduo.com/goods/images/2018-08-20/6b03e50d12c2987812c9ccb54108827a.jpeg"
-],
-"title": "中国风男装唐装男长袖外套中老年中式服装春秋汉服男长衫居士服",
-"catName1": null
-},
--{
-"price": 1304,
-"id": "1975938049",
-"catId1": null,
-"saleCount": 2,
-"marketPrice": 1324,
--"imageUrls": [
-"http://t00img.yangkeduo.com/goods/images/2018-10-30/6bb22a9b761a3a1ed668f54ae7e1f75c.jpeg"
-],
-"title": "中山装男长衫中老年唐装男长袖套装中式父亲节老人衣服男爷爷装夏",
-"catName1": null
-},
--{
-"price": 610,
-"id": "594841944",
-"catId1": null,
-"saleCount": 3,
-"marketPrice": 630,
--"imageUrls": [
-"http://omsproductionimg.yangkeduo.com/images/2018-01-23/a04f0010e60c423f10a1992e98c5900c.jpeg"
-],
-"title": "水貂绒打底衫长衫女学生韩版男士袖针织套装裙衫女衬衫领黑色打白色衫民族风衫打短款秋露脐套装衫中年女短款男秋孕妇打衫加绒女宝",
-"catName1": null
-},
--{
-"price": 700,
-"id": "112948750",
-"catId1": null,
-"saleCount": 751,
-"marketPrice": 730,
--"imageUrls": [
-"http://t00img.yangkeduo.com/goods/images/2018-09-17/75244f45511f282f8777c09a39642049.jpeg"
-],
-"title": "秋冬中长款打底衫女加绒加厚体恤宽松长衫大码莫代尔T恤长袖内搭",
-"catName1": null
-},
--{
-"price": 430,
-"id": "1175734474",
-"catId1": null,
-"saleCount": 1874,
-"marketPrice": 450,
--"imageUrls": [
-"http://t00img.yangkeduo.com/goods/images/2018-09-28/c7c9c2c24d13591d5308ae36faafdeba.jpeg"
-],
-"title": "中国风唐装上衣男士青年汉服男长衫中式外套居士服唐装中老年长袖",
-"catName1": null
-},
--{
-"price": 440,
-"id": "493571747",
-"catId1": null,
-"saleCount": 1,
-"marketPrice": 460,
--"imageUrls": [
-"http://t07img.yangkeduo.com/images/2018-02-23/32ecd83ff4349490d67e1ebba0652ca2.jpeg"
-],
-"title": "内搭春季男士春装打底衫短款打冬渔网衫长衫女童夏季衫中长款女式款春女高领衬衣女网纱男孩女士衫士加肥加大季衫小碎花衫男妈妈衫",
-"catName1": null
-},
--{
-"price": 640,
-"id": "562607573",
-"catId1": null,
-"saleCount": 1,
-"marketPrice": 660,
--"imageUrls": [
-"http://omsproductionimg.yangkeduo.com/images/2018-01-17/93fa6722075fe9f0fd187d27c11b7645.jpeg"
-],
-"title": "快手红人同款男纯棉t恤男女士小衫中女学生男士大码t恤女长袖中秋装女男土衣服士白色女童T体恤社会女套装秋季衫长衫女大童加绒",
-"catName1": null
-},
--{
-"price": 1050,
-"id": "508987575",
-"catId1": null,
-"saleCount": 1,
-"marketPrice": 1070,
--"imageUrls": [
-"http://omsproductionimg.yangkeduo.com/images/2018-01-24/e8a0865f4c090f71ef570fb8ef587342.jpeg"
-],
-"title": "女童春装打底衫针织阔腿裤套装中学生衫女亮丝打内搭女韩版秋冬裙女装长款衫中领打女高领衫薄款女装衫小薄前短后长衫金丝绒衣女衫",
-"catName1": null
-},
--{
-"price": 762,
-"id": "449028241",
-"catId1": null,
-"saleCount": 1,
-"marketPrice": 782,
--"imageUrls": [
-"http://omsproductionimg.yangkeduo.com/images/2018-01-21/e60c03d86562070bf44a51ad73c3ea70.jpeg"
-],
-"title": "海青透明咖啡色黑色黄色海青居士服僧服僧衣佛衣透明轻薄佛教用品袈裟大褂长衫僧鞋普通麻纱海清",
-"catName1": null
-}
-],
-"pageToken": "2",
-"hasNext": true,
-"dataType": "product",
-"retcode": "000000",
-"appCode": "pinduoduo"
-}
+    "data": [
+    {
+    "price": 710,
+    "id": "4103076104",
+    "catId1": null,
+    "saleCount": 4,
+    "marketPrice": 800,
+    "imageUrls": [
+    "http://t00img.yangkeduo.com/goods/images/2018-11-26/ba5dc1905895d37a9d533a37ee5dac66.jpeg"
+    ],
+    "title": "18冬季【水貂绒打底中长毛衣】女款百搭针织裙保暖瘦身打底中长衫",
+    "catName1": null
+    },
+    {
+    "price": 748,
+    "id": "3003242294",
+    "catId1": null,
+    "saleCount": 2,
+    "marketPrice": 848,
+    "imageUrls": [
+    "http://t00img.yangkeduo.com/goods/images/2018-09-19/c619d5b97466b890dc6bcb22e42744ba.jpeg"
+    ],
+    "title": "针织衫女开衫气质春秋款披肩宽松长衫韩版2018中长款披肩外套",
+    "catName1": null
+    },
+    {
+    "price": 555.6,
+    "id": "4691135672",
+    "catId1": null,
+    "saleCount": 0,
+    "marketPrice": 755.6,
+    "imageUrls": [
+    "http://t00img.yangkeduo.com/goods/images/2018-12-04/baa4fe9cb523cb6799d2ab8c6e2a4953.jpeg"
+    ],
+    "title": "秋季棉质鸡心领长衫男版长袖t恤丅血男士韩版秋衣上衣外穿男装土V",
+    "catName1": null
+    },
+    {
+    "price": 237.5,
+    "id": "4330953336",
+    "catId1": null,
+    "saleCount": 14,
+    "marketPrice": 337.5,
+    "imageUrls": [
+    "http://t00img.yangkeduo.com/goods/images/2018-11-20/cefc8c11f63b868b6e0b0628fdf413bc.jpeg"
+    ],
+    "title": "中式结婚礼服伴郎伴娘服男士长衫长袍大褂民国古装相声兄弟团礼服",
+    "catName1": null
+    },
+    {
+    "price": 430,
+    "id": "177988864",
+    "catId1": null,
+    "saleCount": 28,
+    "marketPrice": 480,
+    "imageUrls": [
+    "http://omsproductionimg.yangkeduo.com/images/2017-11-06/8c636223e77b137241b97d3ce160772f.jpeg"
+    ],
+    "title": "新款印花相声服装表演出服长袍大褂五四民族民国时尚长衫古装汉服",
+    "catName1": null
+    },
+   {
+    "price": 430,
+    "id": "134742144",
+    "catId1": null,
+    "saleCount": 200,
+    "marketPrice": 480,
+   "imageUrls": [
+    "http://omsproductionimg.yangkeduo.com/images/2017-10-21/194ed2459cef2099ffc9c6af122f560b.jpeg"
+    ],
+    "title": "新款印花相声服装 民国时尚长衫表演出服五四青年学生装 民族大褂",
+    "catName1": null
+    },
+   {
+    "price": 190,
+    "id": "43174956",
+    "catId1": null,
+    "saleCount": 0,
+    "marketPrice": 250,
+   "imageUrls": [
+    "http://omsproductionimg.yangkeduo.com/images/2017-11-07/3960c2de0bb2b2be3c2a8c8715aed826.jpeg"
+    ],
+    "title": "秋冬韩版女装 V领兔毛线针织背心马甲中长款长衫无袖毛衣",
+    "catName1": null
+    },
+   {
+    "price": 283,
+    "id": "4727363676",
+    "catId1": null,
+    "saleCount": 0,
+    "marketPrice": 303,
+   "imageUrls": [
+    "http://t00img.yangkeduo.com/goods/images/2018-12-05/93010ffcb04ca58a25b18292a972e291.jpeg"
+    ],
+    "title": "儿童相声演出服装马褂相声大褂五四民国长衫相声服中式长袍表演服",
+    "catName1": null
+    },
+   {
+    "price": 283,
+    "id": "4727454236",
+    "catId1": null,
+    "saleCount": 0,
+    "marketPrice": 303,
+   "imageUrls": [
+    "http://t00img.yangkeduo.com/goods/images/2018-12-05/2a28b20a32660711bd724975eab8d36c.jpeg"
+    ],
+    "title": "儿童相声演出服 男女马褂相声大褂民国长衫相声服中式长袍表演服",
+    "catName1": null
+    },
+   {
+    "price": 800,
+    "id": "2655998810",
+    "catId1": null,
+    "saleCount": 26,
+    "marketPrice": 850,
+   "imageUrls": [
+    "http://t00img.yangkeduo.com/goods/images/2018-08-20/6b03e50d12c2987812c9ccb54108827a.jpeg"
+    ],
+    "title": "中国风男装唐装男长袖外套中老年中式服装春秋汉服男长衫居士服",
+    "catName1": null
+    },
+   {
+    "price": 1304,
+    "id": "1975938049",
+    "catId1": null,
+    "saleCount": 2,
+    "marketPrice": 1324,
+   "imageUrls": [
+    "http://t00img.yangkeduo.com/goods/images/2018-10-30/6bb22a9b761a3a1ed668f54ae7e1f75c.jpeg"
+    ],
+    "title": "中山装男长衫中老年唐装男长袖套装中式父亲节老人衣服男爷爷装夏",
+    "catName1": null
+    },
+   {
+    "price": 610,
+    "id": "594841944",
+    "catId1": null,
+    "saleCount": 3,
+    "marketPrice": 630,
+   "imageUrls": [
+    "http://omsproductionimg.yangkeduo.com/images/2018-01-23/a04f0010e60c423f10a1992e98c5900c.jpeg"
+    ],
+    "title": "水貂绒打底衫长衫女学生韩版男士袖针织套装裙衫女衬衫领黑色打白色衫民族风衫打短款秋露脐套装衫中年女短款男秋孕妇打衫加绒女宝",
+    "catName1": null
+    },
+   {
+    "price": 700,
+    "id": "112948750",
+    "catId1": null,
+    "saleCount": 751,
+    "marketPrice": 730,
+   "imageUrls": [
+    "http://t00img.yangkeduo.com/goods/images/2018-09-17/75244f45511f282f8777c09a39642049.jpeg"
+    ],
+    "title": "秋冬中长款打底衫女加绒加厚体恤宽松长衫大码莫代尔T恤长袖内搭",
+    "catName1": null
+    },
+   {
+    "price": 430,
+    "id": "1175734474",
+    "catId1": null,
+    "saleCount": 1874,
+    "marketPrice": 450,
+   "imageUrls": [
+    "http://t00img.yangkeduo.com/goods/images/2018-09-28/c7c9c2c24d13591d5308ae36faafdeba.jpeg"
+    ],
+    "title": "中国风唐装上衣男士青年汉服男长衫中式外套居士服唐装中老年长袖",
+    "catName1": null
+    },
+   {
+    "price": 440,
+    "id": "493571747",
+    "catId1": null,
+    "saleCount": 1,
+    "marketPrice": 460,
+   "imageUrls": [
+    "http://t07img.yangkeduo.com/images/2018-02-23/32ecd83ff4349490d67e1ebba0652ca2.jpeg"
+    ],
+    "title": "内搭春季男士春装打底衫短款打冬渔网衫长衫女童夏季衫中长款女式款春女高领衬衣女网纱男孩女士衫士加肥加大季衫小碎花衫男妈妈衫",
+    "catName1": null
+    },
+   {
+    "price": 640,
+    "id": "562607573",
+    "catId1": null,
+    "saleCount": 1,
+    "marketPrice": 660,
+   "imageUrls": [
+    "http://omsproductionimg.yangkeduo.com/images/2018-01-17/93fa6722075fe9f0fd187d27c11b7645.jpeg"
+    ],
+    "title": "快手红人同款男纯棉t恤男女士小衫中女学生男士大码t恤女长袖中秋装女男土衣服士白色女童T体恤社会女套装秋季衫长衫女大童加绒",
+    "catName1": null
+    },
+   {
+    "price": 1050,
+    "id": "508987575",
+    "catId1": null,
+    "saleCount": 1,
+    "marketPrice": 1070,
+   "imageUrls": [
+    "http://omsproductionimg.yangkeduo.com/images/2018-01-24/e8a0865f4c090f71ef570fb8ef587342.jpeg"
+    ],
+    "title": "女童春装打底衫针织阔腿裤套装中学生衫女亮丝打内搭女韩版秋冬裙女装长款衫中领打女高领衫薄款女装衫小薄前短后长衫金丝绒衣女衫",
+    "catName1": null
+    },
+   {
+    "price": 762,
+    "id": "449028241",
+    "catId1": null,
+    "saleCount": 1,
+    "marketPrice": 782,
+   "imageUrls": [
+    "http://omsproductionimg.yangkeduo.com/images/2018-01-21/e60c03d86562070bf44a51ad73c3ea70.jpeg"
+    ],
+    "title": "海青透明咖啡色黑色黄色海青居士服僧服僧衣佛衣透明轻薄佛教用品袈裟大褂长衫僧鞋普通麻纱海清",
+    "catName1": null
+    }
+    ],
+    "pageToken": "2",
+    "hasNext": true,
+    "dataType": "product",
+    "retcode": "000000",
+    "appCode": "pinduoduo"
+    }
+    
